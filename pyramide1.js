@@ -8,12 +8,12 @@ console.log("******")
 console.log("*******")
 console.log("********")
 
-/* avec une boucle for
+/*avec une boucle for
 let star = '*'
-let pyramid = ''
+let rows= '*'
 
 for (let i = 0; i < 9; i++) {
-  console.log(pyramid)
-  pyramid += star
+  console.log(rows)
+  rows += star
 }
 */
