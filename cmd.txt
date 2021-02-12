@@ -1,0 +1,30 @@
+Quelques exemples de commandes pour le Terminal
+cd (Change Directory) : Vous permet de vous déplacer d'un répertoire à un autre (exemple : cd/user/nom du dossier pour aller dans votre répertoire). 
+
+cd .. : Retour au dossier précèdent.
+
+cd ~ : Retour home (desktop).
+
+pwd (Print Working Directory) : Vous affiche l'emplacement du répertoire dans lequel on se trouve.
+
+ls : Affiche toute la liste de vos fichiers et dossiers.
+
+ls -a : Affiche toute la liste de vos fichiers et dossiers + les éléments invisibles.
+
+touch : Cette commande permet de changer la date du dernier accès ou modification d’un fichier, mais permet également de créer un fichier vide.
+
+mkdir + "nom du dossier" : Permet de créer un nouveau répertoire (dossier).
+
+rmdir: permet de supprimer un répertoire 
+
+rm : Cette commande permet de supprimer un fichier ou un répertoire. Cette commande est à utiliser avec précaution car avec l’option -f ou -rf, cette commande peut endommager voir supprimer tout le système de fichiers de manière irréversible.
+
+cp : permet de copier un fichier ou un répertoire.
+
+mv : Pour déplacer un fichier entre vos répertoires.
+
+clear : Effacer les lignes précédentes.
+
+man : Cette commande permet d’afficher le manuel d’aide de n’importe quelle autre commande disponible, ex : man ls
+
+sudo : Cette commande permet à un administrateur système d'accorder à certains utilisateurs (ou groupes d'utilisateurs) la possibilité de lancer une commande en tant qu'administrateur, ou en tant qu'autre utilisateur, tout en conservant une trace des commandes saisies et des arguments
